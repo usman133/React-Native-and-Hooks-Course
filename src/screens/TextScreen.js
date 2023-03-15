@@ -2,7 +2,7 @@ import react, {useState} from "react";
 import {View, StyleSheet, Text, TextInput} from 'react-native';
 
 const TextScreen = () => {
-    const [name, setName] = useState('');
+    const [password, setPassword] = useState('');
 
     return (
         <View>
