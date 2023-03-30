@@ -17,7 +17,7 @@ const styles = StyleSheet.create({
         borderWidth: 3,
         borderColor: 'black',
         height:200,
-        alignItems: 'center'
+        //alignItems: 'center'
         //flexDirection:'row'
   },
 
@@ -29,7 +29,7 @@ const styles = StyleSheet.create({
   textTwoeStyle: {
     borderWidth: 3,
     borderColor: 'red',
-    alignSelf:'stretch'
+    ...StyleSheet.absoluteFillObject
 },
 
 textThreeStyle: {
