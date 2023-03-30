@@ -6,7 +6,7 @@ const BoxScreen = () => {
   <View styles={styles.viewStyle}>
     <Text styles={styles.textStyle}>Child #1</Text>
     <Text styles={styles.textStyle}>Child #2</Text>
-    <Text styles={styles.textStyle}>Child #3 - working</Text>
+    <Text styles={styles.textStyle}>Child #3</Text>
   </View>
 
   );
