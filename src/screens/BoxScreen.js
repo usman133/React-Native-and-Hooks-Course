@@ -17,25 +17,24 @@ const styles = StyleSheet.create({
         borderWidth: 3,
         borderColor: 'black',
         height:200,
+        alignItems: 'center'
         //flexDirection:'row'
   },
 
   textOneStyle: {
         borderWidth: 3,
-        borderColor: 'red',
-        flex:4
+        borderColor: 'red'
   },
 
   textTwoeStyle: {
     borderWidth: 3,
     borderColor: 'red',
-    flex:4
+    alignSelf:'stretch'
 },
 
 textThreeStyle: {
   borderWidth: 3,
-  borderColor: 'red',
-  flex:2
+  borderColor: 'red'
 
 }
 
