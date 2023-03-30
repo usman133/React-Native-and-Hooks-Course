@@ -7,3 +7,4 @@ My first ever React Native course, which covered the following topics:
 3. Navigating users between screens
 4. Building reusable components
 5. State management in React components
+6. How to handle screen layout
